@@ -1,0 +1,24 @@
+.input{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 48px;
+}
+
+.input--form{
+  line-height: 1rem;
+  width: 252px;
+  padding: 7px;
+  background-color: rgb(251, 254, 251);
+  border-radius: 8px;
+  color: black;
+  border: none;
+}
+
+.input--btn{
+  margin: 16px;
+}
+
+.input--btn button{
+  margin-right: 12px;
+}
